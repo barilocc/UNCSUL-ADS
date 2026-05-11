@@ -1,6 +1,7 @@
 import math
 
-#trabalho de igor strauss
+#trabalho de igor strauss - RGM 5947848251
+
 
 print ('SEJA BEM VINDO. RESPONDA AS QUESTÕES ABAIXO: ')
 
