@@ -12,3 +12,5 @@ if país.lower() == 'brasil' and idade >= 18:
     print(f'{nome}, você pode tirar a CNH no Brasil.')
 if país.lower() == 'estados unidos' and idade >= 16:
     print(f'{nome}, você pode tirar a CNH nos Estados Unidos.')
+else:
+    print(f'{nome}, você ainda não pode tirar a CNH.')
